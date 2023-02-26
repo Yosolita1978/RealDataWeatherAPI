@@ -13,6 +13,16 @@ form{
 margin-left: 150px;
 }
 
+p{
+  margin-left: 100px;
+
+}
+
+img{
+  margin-left: 100px;
+
+}
+
 
 .App {
   /* text-align: center; */
@@ -20,8 +30,8 @@ margin-left: 150px;
   padding-left: 20px;
  }
  .App-header{
-   color:blue
+   color:rgb(255, 153, 0)
  }
 .data{
-  color: purple
+  color: rgb(0, 21, 255)
 }
